@@ -3,7 +3,7 @@ export const site = {
   shortName: "Aime Christian",
   logo: "<Aime.dev />",
   location: "Kigali, Rwanda",
-  email: "chrstianimfurayase@gmail.com",
+  email: "christianimfurayase@gmail.com",
   phone: "+250795220842",
   phoneHref: "tel:+250795220842",
   whatsapp: "https://wa.me/250795220842",

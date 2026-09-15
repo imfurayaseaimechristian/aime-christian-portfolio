@@ -2,7 +2,7 @@ export const knowledge = {
   name: "Imfurayase Aime Christian",
   shortName: "Aime Christian",
   location: "Kigali, Rwanda",
-  email: "chrstianimfurayase@gmail.com",
+  email: "christianimfurayase@gmail.com",
   phone: "+250795220842",
   whatsapp: "https://wa.me/250795220842",
   github: [
