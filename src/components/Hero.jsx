@@ -56,13 +56,13 @@ export default function Hero() {
         </div>
 
         <div className="flex justify-center lg:justify-end">
-          <div className="relative w-full max-w-md">
-            <div className="absolute -inset-4 rounded-[2rem] bg-gradient-to-br from-cyan-400/30 to-emerald-400/20 blur-2xl" />
-            <div className="glow-ring relative overflow-hidden rounded-[1.75rem] bg-slate-900 p-1.5">
+          <div className="float-slow relative">
+            <div className="absolute -inset-4 rounded-full bg-gradient-to-br from-cyan-400/30 to-emerald-400/20 blur-2xl" />
+            <div className="glow-ring relative h-64 w-64 overflow-hidden rounded-full bg-slate-900 p-1.5 sm:h-80 sm:w-80">
               <img
                 src={site.photo}
                 alt={site.name}
-                className="block w-full rounded-[1.35rem] object-cover"
+                className="h-full w-full rounded-full object-cover object-[50%_15%]"
               />
             </div>
           </div>

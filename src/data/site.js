@@ -13,7 +13,7 @@ export const site = {
   instagramHandle: "imfuraaime09",
   facebook: "https://www.facebook.com/imfuraaime",
   facebookName: "Aime Christian",
-  photo: "/profile.png",
+  photo: "/profile.jpg",
   roles: [
     "Full-Stack Developer",
     "Software Engineer",
